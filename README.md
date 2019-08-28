@@ -17,5 +17,6 @@ Machine-Learning-Algorithms
          * RandomForest
          * AdaBoosting
          * GBDT
+    * [NeuralNetworks神经网络](NNbase.ipynb)
 * [模型泛化](模型泛化.ipynb)
 * [评价分类结果](评价分类结果.ipynb)
