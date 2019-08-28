@@ -7,6 +7,4 @@ Machine-Learning-Algorithms
 * 机器学习算法
     * [KNN最近邻算法](KNN.ipynb)
 
-* 机器学习算法  
-    * [KNN最近邻算法](![](https://github.com/https://github.com/aeternae/Machine-Learning-Algorithms/KNN.ipynb)) 
-        * Python  
+
