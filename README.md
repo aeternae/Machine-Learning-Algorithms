@@ -9,6 +9,11 @@ Machine-Learning-Algorithms
     * [LinearRegression线性回归](LinearRegression.ipynb)
     * [LogisticRegression逻辑回归](LogisticRegression.ipynb)
     * [PolynomialRegression多项式回归](PolynomialRegression.ipynb)
-    * 
-
-
+    * [PCA主成分分析法](PCA.ipynb)
+    * [GradientDescent梯度下降法](GradientDescent.ipynb)
+    * [DecisionTree决策树](DecisionTree.ipynb)
+    * [EnsembleLearning集成学习](EnsembleLearning.ipynb)
+         * RandomForest
+         * AdaBoosting
+         * GBDT
+    * []
