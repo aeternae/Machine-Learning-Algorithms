@@ -8,6 +8,7 @@ Machine-Learning-Algorithms
     * [KNN最近邻算法](KNN.ipynb)
     * [LinearRegression线性回归](LinearRegression.ipynb)
     * [LogisticRegression逻辑回归](LogisticRegression.ipynb)
-    * [Polynomial Regression多项式回归](Polynomial Regression.ipynb)
+    * [PolynomialRegression多项式回归](PolynomialRegression.ipynb)
+    * 
 
 
